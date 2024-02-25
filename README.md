@@ -14,6 +14,8 @@ BlockchainKehl (AKC) is a cryptocurrency token created with the purpose of [inse
 - **Contract Address:** 0xff29ea51b0e1b96c294bc6ff2e67a99072ff5566
 - **Decimals:** 18
 
+![akc-token](https://github.com/AllanKDeveloper/akc-token/assets/37770361/4ceb2b71-c86e-4874-934a-f57d09c7cba2)
+
 ## License
 
 This project is licensed under the [license name] License - see the [LICENSE](LICENSE) file for details.
